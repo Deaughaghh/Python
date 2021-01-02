@@ -1,3 +1,5 @@
 ﻿# Python
-#this is cool
+this is cool
+u are bad
+
 # Python
